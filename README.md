@@ -20,5 +20,7 @@ Here are some ideas to get you started:
 
 # About me
 
+I'm kind guy 😊
 I have been passionate about computer science since I was a child. 
 My hobbies are martial arts 🥋 and chess ♟️.
+
