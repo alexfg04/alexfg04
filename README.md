@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Alessio Forgione
 
 <!--
 **alexfg04/alexfg04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I am currently enrolled in computer science at the University of Salerno.
+- 💻 I'm currently learning reverse engineering
+
+# About me
+
+I have been passionate about computer science since I was a child. 
+My hobbies are martial arts 🥋 and chess ♟️.
